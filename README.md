@@ -63,7 +63,7 @@ the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
 ***
 
-**Buit in Deflatinary Mechanisim**
+**Built in Deflatinary Mechanisim**
 
 - there is a set platform/contract burn fee applied to all user transactions; this fee is 2.5% of tokens being transfered and is sent by the sender in addition to the "transfer amount" to the 0xDead address to be burned automatically(this can be changed in the future and will only be changed after permitted by community vote.)
 
