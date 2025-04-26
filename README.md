@@ -24,7 +24,7 @@ Nimbus Can Be Claimed in several ways:
 
 How To Claim:
 
-to claim we recommend going to https://polygonscan.com/token/0x51aeaf0eaf0919da5bf5865ac6a0f4d270de060f#writeContract // correct this after launch
+to claim we recommend going to https://polygonscan.com/token/0x51aeaf0eaf0919da5bf5865ac6a0f4d270de060f#writeContract // correct this after launch (this is a test contract not the offical contract)
 
 then click "connect to web3" button to connect your wallet to polyscan; and then call/write any of the following functions from the list of functions on the contract:
 
