@@ -39,6 +39,7 @@ Liquid Staking(function #),
 the development team will maintain a donations wallet that will be set up to receive donations in the form of Nimbus or MATIC.
 
 //correct address once launched Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or Nimbus to this Address.) //correct address once launched
+
 MATIC received from donations will be allotted in a 75%/25% split and the Nimbus token donations will be allocated 50%/50%
 
 75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be burned once a months.
