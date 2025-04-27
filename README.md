@@ -44,7 +44,7 @@ MATIC received from donations will be allotted in a 75%/25% split and the Nimbus
 
 75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be added to the project treasury once a month.
 
-the remaining 25% MATIC collected from donations will be used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
+the remaining 25% MATIC collected from donations will be added to the project treasury and used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
 
 the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
