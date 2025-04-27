@@ -42,7 +42,7 @@ the development team will maintain a donations wallet that will be set up to rec
 
 MATIC received from donations will be allotted in a 75%/25% split and the Nimbus token donations will be allocated 50%/50%
 
-75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be burned once a months.
+75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be added to the project treasury once a month.
 
 the remaining 25% MATIC collected from donations will be used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
 
