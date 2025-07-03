@@ -18,7 +18,7 @@ Nimbus Can Be Claimed in several ways:
   
 - whitelist claim: once by any whitelisted user at a rate of 500,000 tokens. whitelist will be limited to 100 users.
 
-- liquid staking: once per 30 days by any token holder with a minimun balance of 100 tokens or more; user will be minted 1% of their total held balance.(up to 12% APR) *whitelisted users only (please note that no more then 420,000,000 total supply can be minted at one time.)
+- liquid staking: once per 30 days by any token holder with a minimun balance of 100 tokens or more; user will be minted 1% of their total held balance.(up to 12% APR) *whitelisted users only (please note that no more then 420,000,000 total supply can be minted at one time; the total supply will not exceed 420,000,000 tokens.)
 
 ***
 
@@ -57,9 +57,11 @@ the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
 - Dev Team/Colaborator Tokens: 50,000,000 Nimbus
 
+- Max Supply: 420,000,000 Nimbus(can be changed in the future only after community vote)
+
 **to be minted by whitelisted users after launch**
-- New user Claims: (20,000,000 Nimbus)
-- Whitelist Claims: (50,000,000 Nimbus)
+- New user Claims: (20,000,000 Nimbus Total)
+- Whitelist Claims: (50,000,000 Nimbus Total)
 
 ***
 
