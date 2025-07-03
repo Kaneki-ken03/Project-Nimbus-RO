@@ -16,7 +16,7 @@ Nimbus Can Be Claimed in several ways:
 
 - new user claim: once by any new user at a rate of 100 tokens. limited to 200,000 new users.
   
-- whitelist claim: once by any whitelisted user at a rate of 500,000 tokens. whitelist will be limited to 100 users.
+- whitelist claim: once by any whitelisted user at a rate of 500,000 tokens. whitelist claim will be limited to the first 100 whitelisted users and available at first to come first to claim basis. .
 
 - liquid staking: once per 30 days by any token holder with a minimun balance of 100 tokens or more; user will be minted 1% of their total held balance.(up to 12% APR) *whitelisted users only (please note that no more then 420,000,000 total supply can be minted at one time; the total supply will not exceed 420,000,000 tokens; unless max supply is changed after community vote.)
 
