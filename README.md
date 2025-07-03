@@ -18,13 +18,13 @@ Nimbus Can Be Claimed in several ways:
   
 - whitelist claim: once by any whitelisted user at a rate of 500,000 tokens. whitelist will be limited to 100 users.
 
-- liquid staking: once per 30 days by any token holder with a minimun balance of 100 tokens or more; user will be minted 1% of their total held balance.(up to 12% APR)
+- liquid staking: once per 30 days by any token holder with a minimun balance of 100 tokens or more; user will be minted 1% of their total held balance.(up to 12% APR) *whitelisted users only (please note tat no more then 420,000,000 total supply can be minted.)
 
 ***
 
 How To Claim:
 
-to claim we recommend going to https://polygonscan.com/token/0x51aeaf0eaf0919da5bf5865ac6a0f4d270de060f#writeContract // correct this after launch (this is a test contract not the offical contract)
+to claim we recommend going to https://polygonscan.com/token/0x51aeaf0eaf0919da5bf5865ac6a0f4d270de060f#writeContract // correct this after launch
 
 then click "connect to web3" button to connect your wallet to polyscan; and then call/write any of the following functions from the list of functions on the contract:
 
@@ -39,12 +39,11 @@ Liquid Staking(function #),
 the development team will maintain a donations wallet that will be set up to receive donations in the form of Nimbus or MATIC.
 
 //correct address once launched Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or Nimbus to this Address.) //correct address once launched
-
 MATIC received from donations will be allotted in a 75%/25% split and the Nimbus token donations will be allocated 50%/50%
 
-75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be added to the project treasury once a month.
+75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be burned once a months.
 
-the remaining 25% MATIC collected from donations will be added to the project treasury and used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
+the remaining 25% MATIC collected from donations will be used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
 
 the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
