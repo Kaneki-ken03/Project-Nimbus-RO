@@ -1,6 +1,6 @@
-# About Nimbus Token Project and How To Claim.
+# About Riddler Token Project and How To Claim.
 
-Nimbus is a open source and free to claim Commodity representation of value token that we hope will be adopted and used by all.
+Riddler is a open source and free to claim Commodity representation of value token that we hope will be adopted and used by all.
 
 ***
 
@@ -8,11 +8,11 @@ Nimbus is a open source and free to claim Commodity representation of value toke
 
 ***
 
-**No Presale/ICO for Nimbus will be held;** we intend to launch an abundant and cheap coin for new users to use in the form of a commodity representation of value token; that may grow in value over time.
+**No Presale/ICO for Riddler will be held;** we intend to launch an abundant and cheap coin for new users to use in the form of a commodity representation of value token; that may grow in value over time.
 
 ***
 
-Nimbus Can Be Claimed in several ways:
+Riddler Can Be Claimed in several ways:
 
 - new user claim: once by any new user at a rate of 100 tokens. limited to 200,000 new users.
   
@@ -36,12 +36,12 @@ Liquid Staking(function #),
 
 ***
 
-the development team will maintain a donations wallet that will be set up to receive donations in the form of Nimbus or MATIC.
+the development team will maintain a donations wallet that will be set up to receive donations in the form of Riddler or MATIC.
 
-//correct address once launched Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or Nimbus to this Address.) //correct address once launched
-MATIC received from donations will be allotted in a 75%/25% split and the Nimbus token donations will be allocated 50%/50%
+//correct address once launched Donation Wallet Address: 0x05932c5B4d79c8b0bFc02Bb3b1309E67Daae8BcD (Only send MATIC or Riddler to this Address.) //correct address once launched
+MATIC received from donations will be allotted in a 75%/25% split and the Riddler token donations will be allocated 50%/50%
 
-75% MATIC collected along with 50% of the Nimbus tokens will be added to the liquidity pool; while the other 50% of Nimbus will be burned once a months.
+75% MATIC collected along with 50% of the Riddler tokens will be added to the liquidity pool; while the other 50% of Riddler will be burned once a months.
 
 the remaining 25% MATIC collected from donations will be used to support further project development; this 25% will be subtracted from the total MATIC balance once a month.
 
@@ -51,17 +51,17 @@ the tokens liquidity pool will be listed on Pancake Swap or similar exchanges.
 
 **tokenomics**
 
-- initial supply: 350,000,000 Nimbus
+- initial supply: 350,000,000 Riddler
 
-- Liquidity Pool: 300,000,000 Nimbus
+- Liquidity Pool: 300,000,000 Riddler
 
-- Dev Team/Colaborator Tokens: 50,000,000 Nimbus
+- Dev Team/Colaborator Tokens: 50,000,000 Riddler
 
-- Max Supply: 420,000,000 Nimbus(can be changed in the future only after community vote)
+- Max Supply: 420,000,000 Riddler(can be changed in the future only after community vote)
 
 **to be minted by whitelisted users after launch**
-- New user Claims: (20,000,000 Nimbus Total)
-- Whitelist Claims: (50,000,000 Nimbus Total)
+- New user Claims: (20,000,000 Riddler Total)
+- Whitelist Claims: (50,000,000 Riddler Total)
 
 ***
 
